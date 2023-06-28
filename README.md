@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugmurthy
 - 👀 I’m interested in building webapps related to distance running
-- 🌱 I’m currently learning fastAPI and Vue
+- 🌱 I dabble in FastAPI, Vue, React JS
 - 📫 How to reach me ...ugmurthy@gmail.com
 
 <!---
