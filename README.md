@@ -2,7 +2,8 @@
 - 👀 I’m interested in building webapps related to distance running
 - 🌱 I dabble in FastAPI, node.js, C, vue, React JS, Now REMIX too..
 - 🌱 Have keen interest in learning LLM and its applications , love OpenSource Model thanks to ollama.com
--  🏃🏽‍♂️ Love to run marathons.
+-  🏃🏽‍♂️ Love to run marathons. [My blog -torun4ever ](https://torun4ever.com/)
+-  
 - 📫 How to reach me ...ugmurthy@gmail.com
 -    twitter @murthyug
 
