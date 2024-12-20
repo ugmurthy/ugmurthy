@@ -7,6 +7,13 @@
 - 📫 How to reach me ...ugmurthy@gmail.com
 -    twitter @murthyug
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ugmurthy/count.svg?"  />
+</div>
+
+###
+
 <!---
 ugmurthy/ugmurthy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
