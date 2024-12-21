@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ugmurthy from Bangalore
 - 👀 I’m interested in building webapps related to distance running 
 - 🌱 I dabble FastAPI, node.js, C, vue, React JS, and lately REMIX 
-- 🌱 Have keen interest in learning LLMs and their applications 
+- 🌱 Have keen interest in learning LLMs and their applications
+- 🌱 More recently having fun with AI Coders - Cursor, Bolt.new, WindSurf
 -  🏃🏽‍♂️ Love to run marathons. [My blog -torun4ever ](https://torun4ever.com/)
 -  
 - 📫 How to reach me ...ugmurthy@gmail.com
