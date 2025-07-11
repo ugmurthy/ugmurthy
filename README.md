@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @ugmurthy from Bangalore
 - 👀 I’m interested in building webapps related to distance running 
-- 🌱 I dabble FastAPI, node.js, C, vue, React JS, and lately REMIX 
+- 🌱 I dabble FastAPI, node.js, C, React JS and like tailwind CSS 
 - 🌱 Have keen interest in learning LLMs and their applications
-- 🌱 More recently having fun with AI Coders - Cursor, Bolt.new, WindSurf
--  🏃🏽‍♂️ Love to run marathons. [My blog -torun4ever ](https://torun4ever.com/)
+- 🌱 More recently have tried - Cursor, Bolt.new, WindSurf but looks like I am setting on kilo code!
 -  
 - 📫 How to reach me ...ugmurthy@gmail.com
 -    twitter @murthyug
