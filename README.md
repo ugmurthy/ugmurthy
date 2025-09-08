@@ -13,7 +13,7 @@
 </div>
 
 ###
-
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=ugmurthy)
 <div align="center">
   <img src="https://profile-counter.glitch.me/ugmurthy/count.svg?"  />
 </div>
