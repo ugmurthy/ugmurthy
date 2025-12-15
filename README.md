@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ugmurthy from Bangalore
-- 👀 I’m interested in building webapps related to distance running 
-- 🌱 I dabble FastAPI, node.js, C, React JS and like tailwind CSS 
-- 🌱 Have keen interest in learning LLMs and their applications
-- 🌱 More recently have tried - Cursor, Bolt.new, WindSurf but looks like I am setting on kilo code!
+- 🌱 I dabble in node.js, C, React, Svelte and like tailwind CSS for styling
+- 🌱 Have keen interest in AI and Agentic systems
+- 🌱 More recently have tried - Cursor, Bolt.new, WindSurf, kiloCode and now using ampCode for most of my work!
 -  
 - 📫 How to reach me ...ugmurthy@gmail.com
 -    twitter @murthyug
