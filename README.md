@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ugmurthy from Bangalore
-- 🌱 I dabble in node.js, C, React, Svelte and like tailwind CSS for styling
-- 🌱 Have keen interest in AI and Agentic systems
-- 🌱 More recently have tried - Cursor, Bolt.new, WindSurf, kiloCode and now using ampCode for most of my work!
+- 🌱 I dabble in node.js,bun, C, React, Svelte and like tailwind CSS for styling
+- 🌱 Have keen interest in AI and Agentic systems (current pursuing desiAgent )
+- 🌱 My coding agent preferences have been changing but at present I am settled on [ampcode](https://ampcode.com/) 
 -  
 - 📫 How to reach me ...ugmurthy@gmail.com
 -    twitter @murthyug
