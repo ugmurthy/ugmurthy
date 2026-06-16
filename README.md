@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ugmurthy from Bangalore
 - 🌱 I dabble in node.js,bun, C, React, Svelte and like tailwind CSS for styling
-- 🌱 Have keen interest in AI and Agentic systems (current pursuing desiAgent )
+- 🌱 Have keen interest in AI and Agentic systems (currently building [adaptiveAgent](https://github.com/ugmurthy/adaptiveAgent)  )
 - 🌱 My coding agent preferences have been changing but at present I am settled on [ampcode](https://ampcode.com/) 
 -  
 - 📫 How to reach me ...ugmurthy@gmail.com
